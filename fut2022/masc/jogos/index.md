@@ -1,4 +1,4 @@
-<h1> <a href="https://camp.geracaoconsciente.ga/">Camp. Geração Consciente</a> </h1>
+<meta property="og:site_name" content="Camp. Geração Consciente">
 
 # Campeonato Interescolar de Futebol Masculino 2022
 
