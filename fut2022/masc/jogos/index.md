@@ -1,4 +1,4 @@
-<meta property="og:site_name" content="Camp. Geração Consciente">
+<title>Campeonato Interescolar de Futebol Masculino 2022</title>
 
 # Campeonato Interescolar de Futebol Masculino 2022
 
