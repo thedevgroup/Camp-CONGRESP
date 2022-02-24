@@ -1,4 +1,4 @@
-<title>Campeonato Interescolar de Futebol Masculino 2022</title>
+<title> Campeonato Interescolar de Futebol Masculino 2022 </title>
 
 # Campeonato Interescolar de Futebol Masculino 2022
 
